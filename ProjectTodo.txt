@@ -1,0 +1,15 @@
+-[X] Build Layout
+-[X] Make It functional(api)
+-[X] Add Search Suggestion List
+-[X] Add Unit Switcher
+-[X] Auto Unit Selector for Imperial Countries
+-[X] Make First page load on the country of the ip address
+-[X] Make Error page.
+-[X] Make Up/Down arrow keys navigate on search list elements + Enter Button
+-[ ] Add Weekly data
+-[ ] Add Radar View with Leaftlet Maps and OWM Api
+-[ ] Add Warning section
+-[ ] //Maybe Add unit button Override
+-[ ] Make Website local time clock more informative
+-[ ] Add Wind direction arrow that would display dynamically according to wind direction
+-[ ] Make Temperature display color change according to temprature High/Low
